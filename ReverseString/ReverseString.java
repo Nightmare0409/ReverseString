@@ -36,8 +36,7 @@ public class ReverseString {
     String inputString = input.nextLine();
 
     // Calling the reverseString method and print the result.
-    System.out.println(reverseString(inputString));
-
+    System.out.println(reverseString(inputString)); 
     // Closing the Scanner object.
     input.close();
   }
